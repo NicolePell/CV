@@ -23,32 +23,32 @@ Technical Skills and Technologies
 
 Education
 ==============
-# Makers Academy: September - December 2014
+#### Makers Academy: September - December 2014
 Highly selective 12 week intensive coding bootcamp.
 - Focussed on pair programming, test driven development, agile practices
 - Object oriented programming, software design
 - Full stack web development
 - Final project: pandapop! - a Rails 4 social karaoke app for YouTube videos created in 10 days.
 
-# London School of Marketing
+#### London School of Marketing
 CIM Professional Diploma in Marketing: June 2010 - 2011
 
-# University of South Africa
+#### University of South Africa
 BA Communications: January 2004 - December 2008
 
 Previous Experience
 ===================
-# RedLaw: January 2012 - September 2014
+- RedLaw: January 2012 - September 2014
 As Marketing Manager I was responsible for the marketing function at this boutique legal recruitment firm including budget management, marketing strategy, planning and implementation, website management and sales monitoring and forecasting
 
-# CIPD Publishing: February 2011 - January 2012
-In my role as Marketing Executive at the CIPD I was responsible for developing, implementing and analysing marketing campaigns for online and offline publishing products including new product development and business planning.
+- CIPD Publishing: February 2011 - January 2012
+Developed, implemented and analysed marketing campaigns for online and offline publishing products including new product development and business planning.
 
-# International Bar Association: December 2008 - February 2011
-As Marketing Executive I developed and implemented campaigns for global events and publications using digital and offline communications.
+- International Bar Association: December 2008 - February 2011
+Developed and ran campaigns for promotion of global events and publications using digital and offline communications.
 
-# South African Music Rights Organisation: November 2007 - August 2008
-As Marketing Officer at SAMRO I was responsible for a wide range of marketing activities including brand strategy, marketing communications, copy writing and web administration.
+- South African Music Rights Organisation: November 2007 - August 2008
+I was responsible for a wide range of marketing activities including brand strategy, marketing communications, copy writing and web administration.
 
 Interests
 =========
