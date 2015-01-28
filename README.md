@@ -1,7 +1,8 @@
 Nicole Pellicena
 ================
+After making the decision to change careers from an 8 year stint in Marketing, I recently completed a 12 week intensive coding bootcamp at Makers Academy. Just a few months on from making the decision to learn to code, I'm excited to be embarking on a career of continual learning and the opportunity to build creative software.
 
-I'm a junior web developer in London. After a eight year career in Marketing I decided to follow a love for tech and problem solving by diving into a 12 week intensive coding bootcamp at Makers Academy. I enjoy building functional software with a strong emphasis on user experience. Read my [week by week breakdown]((https://github.com/NicolePell/course_in_review_2014_sept)) of what I learnt and created at Makers Academy.
+Read my [week by week breakdown]((https://github.com/NicolePell/course_in_review_2014_sept)) of what I learnt and created at Makers Academy or follow my journey through Makers as documented on my [blog](www.niccipell.wordpress.com).
 
 Code Examples
 -------------
@@ -11,66 +12,42 @@ Code Examples
 
 Technical Skills and Technologies
 =================================
-Languages
----------
-- Javascript, jQuery, AJAX and AngularJS
-- Ruby
-- HTML5, ERB and EJS
-- CSS3, Sass and Twitter Boostrap
-- IO
-- Python
-- CoffeeScript
 
-Databases/ORMs
---------------
-- PostgreSQL, with Datamapper and ActiveRecord
-- MongoDB
-
-Frameworks
-----------
-- Sinatra
-- Ruby on Rails
-- Node.js
-
-Version Control
-----------------
-- Git and Github
-
-Testing
--------
-- RSpec
-- Cucumber and Capybara
-- Jasmine
-- Zombie and Poltergeist
-- FactoryGirl
+| |Strong|Know|Touched on|
+|---------|----------------|-------------------|------------------------------|
+|Languages|Ruby, Javascript|CSS3, HTML5, jQuery|IO, Coffeescript, Python, Java|
+|Databases/ORMS|PostGresQL, DataMapper|ActiveRecord, MongoDB|                 |
+|Frameworks|Sinatra, Ruby on Rails|Node.js, Express.js|                       |
+|Testing|RSpec, Jasmine, Capybara|Cucumber, FactoryGirl, Karma, Protractor|Zombie, Poltergeist|
+|Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 Education
 ==============
-## Makers Academy: September - December 2014
+# Makers Academy: September - December 2014
 Highly selective 12 week intensive coding bootcamp.
 - Focussed on pair programming, test driven development, agile practices
 - Object oriented programming, software design
 - Full stack web development
 - Final project: pandapop! - a Rails 4 social karaoke app for YouTube videos created in 10 days.
 
-## London School of Marketing
+# London School of Marketing
 CIM Professional Diploma in Marketing: June 2010 - 2011
 
-## University of South Africa
+# University of South Africa
 BA Communications: January 2004 - December 2008
 
 Previous Experience
 ===================
-## RedLaw: January 2012 - September 2014
+# RedLaw: January 2012 - September 2014
 As Marketing Manager I was responsible for the marketing function at this boutique legal recruitment firm including budget management, marketing strategy, planning and implementation, website management and sales monitoring and forecasting
 
-## CIPD Publishing: February 2011 - January 2012
+# CIPD Publishing: February 2011 - January 2012
 In my role as Marketing Executive at the CIPD I was responsible for developing, implementing and analysing marketing campaigns for online and offline publishing products including new product development and business planning.
 
-## International Bar Association: December 2008 - February 2011
+# International Bar Association: December 2008 - February 2011
 As Marketing Executive I developed and implemented campaigns for global events and publications using digital and offline communications.
 
-## South African Music Rights Organisation: November 2007 - August 2008
+# South African Music Rights Organisation: November 2007 - August 2008
 As Marketing Officer at SAMRO I was responsible for a wide range of marketing activities including brand strategy, marketing communications, copy writing and web administration.
 
 Interests
@@ -88,4 +65,4 @@ More about me
 - Github: [@NicolePell](https://github.com/nicolepell)
 - Twitter: [@niccipell](https://twitter.com/niccipell)
 - LinkedIn: http://uk.linkedin.com/in/nicolepellicena/
-- Blog: [www.niccipell.wordpress.com]
+- Blog: www.niccipell.wordpress.com
