@@ -2,7 +2,7 @@ Nicole Pellicena
 ================
 After making the decision to change careers from an 8 year stint in Marketing, I recently completed a 12 week intensive coding bootcamp at Makers Academy. Just a few months on from making the decision to learn to code, I'm excited to be embarking on a career of continual learning and the opportunity to build creative software.
 
-Read my [week by week breakdown]((https://github.com/NicolePell/course_in_review_2014_sept)) of what I learnt and created at Makers Academy or follow my journey through Makers as documented on my [blog](www.niccipell.wordpress.com).
+Read my [week by week breakdown](https://github.com/NicolePell/course_in_review_2014_sept) of what I learnt and created at Makers Academy or follow my journey through Makers as documented on my [blog](www.niccipell.wordpress.com).
 
 Code Examples
 -------------
