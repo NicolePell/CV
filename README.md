@@ -17,7 +17,7 @@ Technical Skills and Technologies
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, Javascript|CSS3, HTML5, jQuery|IO, Coffeescript, Python, Java|
 |Databases/ORMS|PostGresQL, DataMapper|ActiveRecord, MongoDB|                 |
-|Frameworks|Sinatra, Ruby on Rails|Node.js, Express.js|                       |
+|Frameworks|Sinatra, Ruby on Rails, AngularJS|Node.js, Express.js|                       |
 |Testing|RSpec, Jasmine, Capybara|Cucumber, FactoryGirl, Karma, Protractor|Zombie, Poltergeist|
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
