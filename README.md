@@ -6,9 +6,15 @@ Read my [week by week breakdown](https://github.com/NicolePell/course_in_review_
 
 Code Examples
 -------------
-|[pandapop](https://github.com/nicolepell/pandapop)|[Table Tennis Tournament](https://github.com/nicolepell/tournament_prog)|[Jumparound](https://github.com/NicolePell/jumparound)|
-|----------|-------------------------|-------------------------|
-|pandapop! is a social karaoke web player for YouTube karaoke videos. Test driven and built during 2 weeks as a final project at Makers Academy| A web app designed to manage a table tennis tournament built using Sinatra, PostgreSQL and Ruby | A web app built during a 3-day hackathon at Makers using Rails and GMaps. The app is designed to help locate "Sean's" jumper and post sightings on the map.
+|Project Name | Description |
+|-------------|-------------|
+|[pandapop](https://github.com/nicolepell/pandapop)| pandapop! is a social karaoke web player for YouTube karaoke videos. Test driven and built during 2 weeks as a final project at Makers Academy|
+|--------------------------------------------------|---------------------------------------------|
+|[Table Tennis Tournament](https://github.com/nicolepell/tournament_prog)|A web app designed to manage a table tennis tournament built using Sinatra, PostgreSQL and Ruby|
+|------------------------------------------------------------------------|-----------------------|
+|[Jumparound](https://github.com/NicolePell/jumparound)|A web app built during a 3-day hackathon at Makers using Rails and GMaps. The app is designed to help locate "Sean's" jumper and post sightings on the map.|
+|-------------------------------------------------------|------------------------------------------|
+
 
 Technical Skills and Technologies
 =================================
