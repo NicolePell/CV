@@ -1,6 +1,6 @@
 Nicole Pellicena
 ================
-After making the decision to change careers from an 8 year stint in Marketing, I recently completed a 12 week intensive coding bootcamp at Makers Academy. Just a few months on from making the decision to learn to code, I'm excited to be embarking on a career of continual learning and the opportunity to build creative software.
+After making the decision to change careers from a successful career in Marketing, I recently completed a 12 week intensive coding programme at Makers Academy. The decision to change career paths has given me a renewed energy and passion for building creating software. Although the experience gained from my previous life has proved invaluable.
 
 Read my [week by week breakdown](https://github.com/NicolePell/course_in_review_2014_sept) of what I learnt and created at Makers Academy or follow my journey through Makers as documented on my [blog](www.niccipell.wordpress.com).
 
@@ -10,7 +10,7 @@ Code Examples
 |-------------|-------------|
 |[pandapop](https://github.com/nicolepell/pandapop)| pandapop! is a social karaoke web player for YouTube karaoke videos. Test driven and built during 2 weeks as a final project at Makers Academy|
 |[Table Tennis Tournament](https://github.com/nicolepell/tournament_prog)|A web app designed to manage a table tennis tournament built using Sinatra, PostgreSQL and Ruby|
-|[Jumparound](https://github.com/NicolePell/jumparound)|A web app built during a 3-day hackathon at Makers using Rails and GMaps. The app is designed to help locate "Sean's" jumper and post sightings on the map.|
+|[Jumparound](https://github.com/NicolePell/jumparound)|A web app built during a 3-day hackathon at Makers using Rails and GMaps. The app is designed to help locate "Sean's" jumper and post sightings on the map.|  
 
 
 Technical Skills and Technologies
