@@ -8,9 +8,10 @@ Code Examples
 -------------
 |Project Name | Description |
 |-------------|-------------|
+|[backgammon (in progress)](https://github.com/nicolepell/backgammon)| A strategy board game built in Ruby |
 |[pandapop](https://github.com/nicolepell/pandapop)| pandapop! is a social karaoke web player for YouTube karaoke videos. Test driven and built during 2 weeks as a final project at Makers Academy|
 |[Table Tennis Tournament](https://github.com/nicolepell/tournament_prog)|A web app designed to manage a table tennis tournament built using Sinatra, PostgreSQL and Ruby|
-|[Jumparound](https://github.com/NicolePell/jumparound)|A web app built during a 3-day hackathon at Makers using Rails and GMaps. The app is designed to help locate "Sean's" jumper and post sightings on the map.|  
+|[Jumparound](https://github.com/NicolePell/jumparound)|A web app built during a 3-day hackathon at Makers using Rails and GMaps. The app is designed to help locate "Sean's" jumper and post sightings on the map.|
 
 
 Technical Skills and Technologies
@@ -41,21 +42,20 @@ BA Communications: January 2004 - December 2008
 
 Previous Experience
 ===================
-- RedLaw: January 2012 - September 2014
-As Marketing Manager I was responsible for the marketing function at this boutique legal recruitment firm including budget management, marketing strategy, planning and implementation, website management and sales monitoring and forecasting
+- RedLaw, Marketing Manager: January 2012 - September 2014
+Responsible for the marketing function at a boutique legal recruitment firm including budget management, marketing strategy, planning and implementation, website management and sales monitoring and forecasting
 
-- CIPD Publishing: February 2011 - January 2012
+- CIPD Publishing, Senior Sales & Marketing Executive: February 2011 - January 2012
 Developed, implemented and analysed marketing campaigns for online and offline publishing products including new product development and business planning.
 
-- International Bar Association: December 2008 - February 2011
+- International Bar Association, Marketing Executive: December 2008 - February 2011
 Developed and ran campaigns for promotion of global events and publications using digital and offline communications.
 
-- South African Music Rights Organisation: November 2007 - August 2008
-I was responsible for a wide range of marketing activities including brand strategy, marketing communications, copy writing and web administration.
+- South African Music Rights Organisation, Marketing Officer: November 2007 - August 2008
+Responsible for a wide range of marketing activities including brand strategy, marketing communications, copy writing and web administration.
 
 Interests
 =========
-- Creating function web apps
 - Kung-Fu
 - Guitar
 - Table Tennis
