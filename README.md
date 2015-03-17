@@ -14,8 +14,7 @@ Code Examples
 |[backgammon (in progress)](https://github.com/nicolepell/backgammon)| A strategy board game built in Ruby |
 
 Technical Skills and Technologies
-=================================
-
+---------------------------------
 | |Strong|Know|Touched on|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, Javascript|CSS3, HTML5, jQuery|IO, Coffeescript, Python, Java|
@@ -25,7 +24,7 @@ Technical Skills and Technologies
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 Education
-==============
+---------
 #### Makers Academy: September - December 2014
 Highly selective 12 week intensive coding bootcamp.
 - Focussed on pair programming, test driven development, agile practices
@@ -40,33 +39,28 @@ CIM Professional Diploma in Marketing: June 2010 - 2011
 BA Communications: January 2004 - December 2008
 
 Work Experience
-===================
-**Graduate Helper**, RedLaw: December 2014 - Present
-
+---------------
+**Graduate Helper**, RedLaw: December 2014 - Present  
 Support students and the academic team, scaffold pairing, organise breakout sessions
 
-**Marketing Manager**, RedLaw: January 2012 - September 2014
-
+**Marketing Manager**, RedLaw: January 2012 - September 2014  
 Responsible for the marketing function including budget management, strategy, planning, sales monitoring and forecasting
 
-**Senior Sales & Marketing Executive**, CIPD Publishing: February 2011 - January 2012
-
+**Senior Sales & Marketing Executive**, CIPD Publishing: February 2011 - January 2012  
 Develop, implement and analyse marketing campaigns for online and offline publishing products
 
-**Marketing Executive**, International Bar Association: December 2008 - February 2011
-
+**Marketing Executive**, International Bar Association: December 2008 - February 2011  
 Create and run campaigns for promotion of global events and publications
 
-**Marketing Officer**, South African Music Rights Organisation: November 2007 - August 2008
-
+**Marketing Officer**, South African Music Rights Organisation: November 2007 - August 2008  
 Responsible for a wide range of marketing activities web administration and brand strategy
 
 Interests
-=========
+---------
 Kung-Fu, Guitar, Table Tennis
 
 More about me
-=============
+-------------
 - Email: [pellicena@gmail.com](pellicena@gmail.com)
 - Phone: 07585309858
 - Github: [@NicolePell](https://github.com/nicolepell)
