@@ -42,18 +42,23 @@ BA Communications: January 2004 - December 2008
 Work Experience
 ===================
 **Graduate Helper**, RedLaw: December 2014 - Present
+
 Support students and the academic team, scaffold pairing, organise breakout sessions
 
 **Marketing Manager**, RedLaw: January 2012 - September 2014
+
 Responsible for the marketing function including budget management, strategy, planning, sales monitoring and forecasting
 
 **Senior Sales & Marketing Executive**, CIPD Publishing: February 2011 - January 2012
+
 Develop, implement and analyse marketing campaigns for online and offline publishing products
 
 **Marketing Executive**, International Bar Association: December 2008 - February 2011
+
 Create and run campaigns for promotion of global events and publications
 
 **Marketing Officer**, South African Music Rights Organisation: November 2007 - August 2008
+
 Responsible for a wide range of marketing activities web administration and brand strategy
 
 Interests
